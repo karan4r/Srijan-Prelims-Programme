@@ -1,0 +1,10 @@
+{
+  "name": "SRIJAN 2027 - Hinglish AI Voice Sales Counselor & Streamlit Deployer",
+  "description": "Interactive Hinglish (Hindi + English) AI Voice Sales Counselor Aditi (Female Voice) for PWOnlyIAS SRIJAN Prelims Program 2027 with instant voice calling, objection handling, pricing advisor, and one-click GitHub + Streamlit deployment export.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
